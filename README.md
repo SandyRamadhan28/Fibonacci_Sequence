@@ -1,1 +1,1 @@
-# Fibonancc_iSquence
+# Fibonacci_Squence
