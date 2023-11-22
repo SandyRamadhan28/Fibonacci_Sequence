@@ -320,6 +320,6 @@ public void countUp(View view) {
 
 ## TAMPILAN PROGRAM SAAT DI RUN
 
-   ![gif](gambar/Hasil.gif)<br>
+   ![img](gambar/Hasil.png)<br>
 
 ## **FINISH**
